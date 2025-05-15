@@ -1,0 +1,501 @@
+user_id,item,dietary_tags,purchase_date,season
+U006,Coconut Milk,"vegan, gluten-free",2024-03-14,Spring
+U025,Peanut Butter,"vegetarian, high-protein",2024-03-27,Spring
+U034,Apples,"vegan, vegetarian",2024-03-16,Spring
+U037,Peanut Butter,"vegetarian, high-protein",2024-04-12,Spring
+U031,Kale,"vegan, vegetarian",2024-01-19,Winter
+U009,Yogurt,vegetarian,2024-01-15,Winter
+U048,Oats,vegetarian,2024-01-17,Winter
+U013,Whole Milk,vegetarian,2024-02-26,Winter
+U047,Eggs,"vegetarian, high-protein",2024-02-03,Winter
+U031,Quinoa,"vegan, gluten-free, high-protein",2024-03-21,Spring
+U026,Oats,vegetarian,2024-04-19,Spring
+U044,Chicken Breast,high-protein,2024-04-29,Spring
+U024,Broccoli,"vegan, vegetarian",2024-01-14,Winter
+U026,Almond Milk,"vegan, gluten-free",2024-03-09,Spring
+U014,Sweet Potatoes,"vegan, vegetarian",2024-01-22,Winter
+U044,Coconut Milk,"vegan, gluten-free",2024-02-06,Winter
+U011,Pasta,,2024-03-29,Spring
+U046,Tofu,"vegan, vegetarian, high-protein",2024-03-06,Spring
+U027,Avocados,"vegan, vegetarian",2024-02-23,Winter
+U032,Gluten-Free Bread,"gluten-free, vegetarian",2024-04-13,Spring
+U035,Sweet Potatoes,"vegan, vegetarian",2024-03-08,Spring
+U005,Soy Milk,"vegan, gluten-free",2024-03-22,Spring
+U007,Brown Rice,"vegan, gluten-free",2024-02-14,Winter
+U049,Kale,"vegan, vegetarian",2024-02-17,Winter
+U031,Broccoli,"vegan, vegetarian",2024-03-03,Spring
+U019,Bananas,"vegan, vegetarian",2024-04-25,Spring
+U040,Eggs,"vegetarian, high-protein",2024-04-07,Spring
+U043,Peanut Butter,"vegetarian, high-protein",2024-02-06,Winter
+U002,Zucchini,"vegan, vegetarian",2024-02-24,Winter
+U004,Avocados,"vegan, vegetarian",2024-04-14,Spring
+U017,Turkey,high-protein,2024-02-11,Winter
+U001,Apples,"vegan, vegetarian",2024-02-23,Winter
+U002,Yogurt,vegetarian,2024-04-23,Spring
+U016,Greek Yogurt,"vegetarian, high-protein",2024-02-05,Winter
+U004,Kale,"vegan, vegetarian",2024-03-23,Spring
+U019,Rice Cakes,"gluten-free, vegetarian",2024-04-10,Spring
+U030,Beef,high-protein,2024-03-15,Spring
+U047,Rice Cakes,"gluten-free, vegetarian",2024-03-06,Spring
+U003,Coconut Milk,"vegan, gluten-free",2024-01-10,Winter
+U016,Whole Milk,vegetarian,2024-01-20,Winter
+U022,Tofu,"vegan, vegetarian, high-protein",2024-01-12,Winter
+U032,Greek Yogurt,"vegetarian, high-protein",2024-03-27,Spring
+U030,Broccoli,"vegan, vegetarian",2024-01-04,Winter
+U010,Chicken Breast,high-protein,2024-03-21,Spring
+U022,Sweet Potatoes,"vegan, vegetarian",2024-03-24,Spring
+U034,Whole Milk,vegetarian,2024-02-01,Winter
+U045,Whole Milk,vegetarian,2024-02-03,Winter
+U046,Yogurt,vegetarian,2024-03-21,Spring
+U031,Coconut Milk,"vegan, gluten-free",2024-03-28,Spring
+U039,Rice Cakes,"gluten-free, vegetarian",2024-03-31,Spring
+U041,Whole Milk,vegetarian,2024-04-19,Spring
+U028,Beef,high-protein,2024-03-24,Spring
+U020,Almond Milk,"vegan, gluten-free",2024-04-01,Spring
+U004,Apples,"vegan, vegetarian",2024-02-27,Winter
+U030,Chicken Breast,high-protein,2024-02-20,Winter
+U035,Almond Milk,"vegan, gluten-free",2024-02-14,Winter
+U021,Turkey,high-protein,2024-03-10,Spring
+U033,Whole Milk,vegetarian,2024-01-04,Winter
+U007,Peanut Butter,"vegetarian, high-protein",2024-01-03,Winter
+U025,Bananas,"vegan, vegetarian",2024-03-11,Spring
+U007,Quinoa,"vegan, gluten-free, high-protein",2024-03-02,Spring
+U047,Beef,high-protein,2024-01-25,Winter
+U018,Eggs,"vegetarian, high-protein",2024-03-16,Spring
+U024,Yogurt,vegetarian,2024-02-14,Winter
+U044,Broccoli,"vegan, vegetarian",2024-01-16,Winter
+U045,Chicken Breast,high-protein,2024-02-11,Winter
+U026,Avocados,"vegan, vegetarian",2024-02-09,Winter
+U049,Spinach,"vegan, vegetarian",2024-04-17,Spring
+U027,Greek Yogurt,"vegetarian, high-protein",2024-03-28,Spring
+U009,Bananas,"vegan, vegetarian",2024-03-09,Spring
+U029,Eggs,"vegetarian, high-protein",2024-01-05,Winter
+U014,Bananas,"vegan, vegetarian",2024-02-16,Winter
+U034,Quinoa,"vegan, gluten-free, high-protein",2024-04-18,Spring
+U015,Soy Milk,"vegan, gluten-free",2024-03-11,Spring
+U002,Avocados,"vegan, vegetarian",2024-01-14,Winter
+U011,Kale,"vegan, vegetarian",2024-02-17,Winter
+U008,Zucchini,"vegan, vegetarian",2024-03-29,Spring
+U044,Apples,"vegan, vegetarian",2024-03-29,Spring
+U045,Whole Milk,vegetarian,2024-02-19,Winter
+U020,Broccoli,"vegan, vegetarian",2024-02-04,Winter
+U006,Salmon,high-protein,2024-03-09,Spring
+U049,Whole Milk,vegetarian,2024-02-17,Winter
+U038,Greek Yogurt,"vegetarian, high-protein",2024-01-19,Winter
+U035,Rice Cakes,"gluten-free, vegetarian",2024-02-04,Winter
+U048,Oats,vegetarian,2024-03-17,Spring
+U043,Broccoli,"vegan, vegetarian",2024-01-16,Winter
+U042,Zucchini,"vegan, vegetarian",2024-02-27,Winter
+U005,Beef,high-protein,2024-04-07,Spring
+U019,Brown Rice,"vegan, gluten-free",2024-01-23,Winter
+U044,Apples,"vegan, vegetarian",2024-04-03,Spring
+U048,Yogurt,vegetarian,2024-04-03,Spring
+U012,Greek Yogurt,"vegetarian, high-protein",2024-04-16,Spring
+U017,Sweet Potatoes,"vegan, vegetarian",2024-01-12,Winter
+U003,Brown Rice,"vegan, gluten-free",2024-04-21,Spring
+U016,Salmon,high-protein,2024-04-09,Spring
+U043,Tofu,"vegan, vegetarian, high-protein",2024-04-28,Spring
+U042,Coconut Milk,"vegan, gluten-free",2024-03-05,Spring
+U032,Spinach,"vegan, vegetarian",2024-03-28,Spring
+U027,Tofu,"vegan, vegetarian, high-protein",2024-04-08,Spring
+U023,Spinach,"vegan, vegetarian",2024-03-20,Spring
+U010,Pasta,,2024-02-11,Winter
+U032,Almond Milk,"vegan, gluten-free",2024-01-04,Winter
+U033,Chicken Breast,high-protein,2024-04-14,Spring
+U030,Chicken Breast,high-protein,2024-04-09,Spring
+U006,Oats,vegetarian,2024-02-10,Winter
+U008,Rice Cakes,"gluten-free, vegetarian",2024-02-05,Winter
+U018,Yogurt,vegetarian,2024-02-18,Winter
+U002,Pasta,,2024-02-02,Winter
+U050,Gluten-Free Bread,"gluten-free, vegetarian",2024-02-04,Winter
+U040,Kale,"vegan, vegetarian",2024-03-16,Spring
+U002,Brown Rice,"vegan, gluten-free",2024-04-01,Spring
+U043,Rice Cakes,"gluten-free, vegetarian",2024-04-17,Spring
+U029,Broccoli,"vegan, vegetarian",2024-01-19,Winter
+U001,Peanut Butter,"vegetarian, high-protein",2024-01-28,Winter
+U011,Oats,vegetarian,2024-03-31,Spring
+U034,Almond Milk,"vegan, gluten-free",2024-03-19,Spring
+U004,Eggs,"vegetarian, high-protein",2024-03-25,Spring
+U009,Kale,"vegan, vegetarian",2024-04-19,Spring
+U003,Oats,vegetarian,2024-01-26,Winter
+U048,Spinach,"vegan, vegetarian",2024-03-10,Spring
+U015,Salmon,high-protein,2024-02-20,Winter
+U014,Turkey,high-protein,2024-04-03,Spring
+U028,Cheese,vegetarian,2024-03-15,Spring
+U012,Apples,"vegan, vegetarian",2024-03-22,Spring
+U037,Gluten-Free Bread,"gluten-free, vegetarian",2024-01-24,Winter
+U027,Eggs,"vegetarian, high-protein",2024-03-03,Spring
+U050,Coconut Milk,"vegan, gluten-free",2024-03-26,Spring
+U009,Carrots,"vegan, vegetarian",2024-02-05,Winter
+U010,Greek Yogurt,"vegetarian, high-protein",2024-04-27,Spring
+U015,Quinoa,"vegan, gluten-free, high-protein",2024-02-07,Winter
+U030,Apples,"vegan, vegetarian",2024-02-29,Winter
+U029,Oats,vegetarian,2024-03-01,Spring
+U009,Bananas,"vegan, vegetarian",2024-04-21,Spring
+U050,Carrots,"vegan, vegetarian",2024-03-14,Spring
+U044,Carrots,"vegan, vegetarian",2024-01-31,Winter
+U046,Whole Milk,vegetarian,2024-03-18,Spring
+U002,Zucchini,"vegan, vegetarian",2024-04-13,Spring
+U039,Bananas,"vegan, vegetarian",2024-02-17,Winter
+U024,Avocados,"vegan, vegetarian",2024-04-28,Spring
+U015,Turkey,high-protein,2024-02-29,Winter
+U005,Lentils,"vegan, vegetarian, high-protein",2024-02-04,Winter
+U036,Apples,"vegan, vegetarian",2024-01-12,Winter
+U037,Turkey,high-protein,2024-03-30,Spring
+U014,Chicken Breast,high-protein,2024-02-28,Winter
+U036,Yogurt,vegetarian,2024-03-09,Spring
+U017,Kale,"vegan, vegetarian",2024-01-03,Winter
+U039,Almond Milk,"vegan, gluten-free",2024-01-29,Winter
+U007,Broccoli,"vegan, vegetarian",2024-01-03,Winter
+U021,Spinach,"vegan, vegetarian",2024-01-19,Winter
+U033,Whole Milk,vegetarian,2024-04-19,Spring
+U042,Rice Cakes,"gluten-free, vegetarian",2024-04-22,Spring
+U033,Almond Milk,"vegan, gluten-free",2024-01-27,Winter
+U022,Apples,"vegan, vegetarian",2024-02-20,Winter
+U013,Quinoa,"vegan, gluten-free, high-protein",2024-01-17,Winter
+U005,Turkey,high-protein,2024-03-07,Spring
+U036,Gluten-Free Bread,"gluten-free, vegetarian",2024-01-05,Winter
+U012,Quinoa,"vegan, gluten-free, high-protein",2024-01-19,Winter
+U037,Beef,high-protein,2024-02-12,Winter
+U026,Avocados,"vegan, vegetarian",2024-03-23,Spring
+U036,Brown Rice,"vegan, gluten-free",2024-03-14,Spring
+U011,Tofu,"vegan, vegetarian, high-protein",2024-02-05,Winter
+U007,Yogurt,vegetarian,2024-02-01,Winter
+U030,Avocados,"vegan, vegetarian",2024-04-03,Spring
+U020,Whole Milk,vegetarian,2024-02-16,Winter
+U050,Lentils,"vegan, vegetarian, high-protein",2024-04-11,Spring
+U030,Spinach,"vegan, vegetarian",2024-02-23,Winter
+U041,Whole Milk,vegetarian,2024-01-15,Winter
+U014,Lentils,"vegan, vegetarian, high-protein",2024-01-26,Winter
+U021,Zucchini,"vegan, vegetarian",2024-03-27,Spring
+U032,Whole Milk,vegetarian,2024-02-23,Winter
+U047,Soy Milk,"vegan, gluten-free",2024-04-05,Spring
+U023,Peanut Butter,"vegetarian, high-protein",2024-04-22,Spring
+U017,Gluten-Free Bread,"gluten-free, vegetarian",2024-03-02,Spring
+U029,Carrots,"vegan, vegetarian",2024-02-25,Winter
+U006,Chicken Breast,high-protein,2024-02-22,Winter
+U027,Lentils,"vegan, vegetarian, high-protein",2024-02-04,Winter
+U042,Oats,vegetarian,2024-04-08,Spring
+U014,Chicken Breast,high-protein,2024-04-17,Spring
+U040,Pasta,,2024-04-30,Spring
+U004,Almond Milk,"vegan, gluten-free",2024-04-07,Spring
+U018,Greek Yogurt,"vegetarian, high-protein",2024-01-11,Winter
+U038,Carrots,"vegan, vegetarian",2024-03-27,Spring
+U028,Almond Milk,"vegan, gluten-free",2024-02-15,Winter
+U032,Broccoli,"vegan, vegetarian",2024-04-01,Spring
+U047,Sweet Potatoes,"vegan, vegetarian",2024-04-19,Spring
+U025,Carrots,"vegan, vegetarian",2024-03-27,Spring
+U035,Zucchini,"vegan, vegetarian",2024-01-16,Winter
+U012,Apples,"vegan, vegetarian",2024-02-17,Winter
+U034,Bananas,"vegan, vegetarian",2024-03-21,Spring
+U011,Apples,"vegan, vegetarian",2024-03-26,Spring
+U030,Peanut Butter,"vegetarian, high-protein",2024-04-25,Spring
+U047,Avocados,"vegan, vegetarian",2024-03-12,Spring
+U007,Salmon,high-protein,2024-01-16,Winter
+U047,Brown Rice,"vegan, gluten-free",2024-02-13,Winter
+U016,Pasta,,2024-02-03,Winter
+U042,Broccoli,"vegan, vegetarian",2024-03-21,Spring
+U005,Carrots,"vegan, vegetarian",2024-01-31,Winter
+U027,Sweet Potatoes,"vegan, vegetarian",2024-03-01,Spring
+U019,Greek Yogurt,"vegetarian, high-protein",2024-02-11,Winter
+U013,Almond Milk,"vegan, gluten-free",2024-03-07,Spring
+U046,Soy Milk,"vegan, gluten-free",2024-04-13,Spring
+U030,Soy Milk,"vegan, gluten-free",2024-01-27,Winter
+U048,Whole Milk,vegetarian,2024-03-07,Spring
+U037,Salmon,high-protein,2024-03-18,Spring
+U014,Tofu,"vegan, vegetarian, high-protein",2024-01-10,Winter
+U008,Quinoa,"vegan, gluten-free, high-protein",2024-03-10,Spring
+U050,Greek Yogurt,"vegetarian, high-protein",2024-04-30,Spring
+U044,Spinach,"vegan, vegetarian",2024-03-02,Spring
+U015,Quinoa,"vegan, gluten-free, high-protein",2024-04-10,Spring
+U030,Cheese,vegetarian,2024-01-27,Winter
+U013,Oats,vegetarian,2024-02-02,Winter
+U018,Kale,"vegan, vegetarian",2024-02-10,Winter
+U001,Lentils,"vegan, vegetarian, high-protein",2024-02-02,Winter
+U036,Whole Milk,vegetarian,2024-04-11,Spring
+U007,Lentils,"vegan, vegetarian, high-protein",2024-01-03,Winter
+U003,Turkey,high-protein,2024-04-15,Spring
+U043,Cheese,vegetarian,2024-03-31,Spring
+U002,Gluten-Free Bread,"gluten-free, vegetarian",2024-03-30,Spring
+U042,Bananas,"vegan, vegetarian",2024-01-04,Winter
+U036,Chicken Breast,high-protein,2024-01-24,Winter
+U023,Yogurt,vegetarian,2024-03-18,Spring
+U022,Lentils,"vegan, vegetarian, high-protein",2024-01-20,Winter
+U004,Tofu,"vegan, vegetarian, high-protein",2024-02-07,Winter
+U003,Eggs,"vegetarian, high-protein",2024-01-01,Winter
+U013,Pasta,,2024-02-02,Winter
+U003,Cheese,vegetarian,2024-04-22,Spring
+U030,Quinoa,"vegan, gluten-free, high-protein",2024-03-14,Spring
+U006,Eggs,"vegetarian, high-protein",2024-02-21,Winter
+U014,Bananas,"vegan, vegetarian",2024-02-29,Winter
+U025,Soy Milk,"vegan, gluten-free",2024-02-12,Winter
+U012,Avocados,"vegan, vegetarian",2024-04-26,Spring
+U006,Oats,vegetarian,2024-03-31,Spring
+U025,Carrots,"vegan, vegetarian",2024-02-29,Winter
+U047,Zucchini,"vegan, vegetarian",2024-03-31,Spring
+U016,Brown Rice,"vegan, gluten-free",2024-04-21,Spring
+U034,Lentils,"vegan, vegetarian, high-protein",2024-04-22,Spring
+U023,Cheese,vegetarian,2024-04-19,Spring
+U040,Avocados,"vegan, vegetarian",2024-02-07,Winter
+U049,Brown Rice,"vegan, gluten-free",2024-04-12,Spring
+U035,Soy Milk,"vegan, gluten-free",2024-01-05,Winter
+U026,Brown Rice,"vegan, gluten-free",2024-01-01,Winter
+U019,Brown Rice,"vegan, gluten-free",2024-02-02,Winter
+U040,Cheese,vegetarian,2024-03-31,Spring
+U012,Beef,high-protein,2024-03-30,Spring
+U042,Greek Yogurt,"vegetarian, high-protein",2024-02-13,Winter
+U019,Avocados,"vegan, vegetarian",2024-02-18,Winter
+U029,Coconut Milk,"vegan, gluten-free",2024-01-09,Winter
+U002,Avocados,"vegan, vegetarian",2024-03-08,Spring
+U019,Rice Cakes,"gluten-free, vegetarian",2024-01-09,Winter
+U033,Apples,"vegan, vegetarian",2024-02-03,Winter
+U027,Yogurt,vegetarian,2024-02-28,Winter
+U022,Sweet Potatoes,"vegan, vegetarian",2024-03-26,Spring
+U008,Spinach,"vegan, vegetarian",2024-04-28,Spring
+U024,Turkey,high-protein,2024-04-11,Spring
+U029,Kale,"vegan, vegetarian",2024-02-24,Winter
+U044,Beef,high-protein,2024-01-02,Winter
+U047,Bananas,"vegan, vegetarian",2024-01-21,Winter
+U013,Pasta,,2024-04-11,Spring
+U035,Tofu,"vegan, vegetarian, high-protein",2024-02-29,Winter
+U009,Whole Milk,vegetarian,2024-02-04,Winter
+U021,Soy Milk,"vegan, gluten-free",2024-03-06,Spring
+U019,Tofu,"vegan, vegetarian, high-protein",2024-02-13,Winter
+U035,Cheese,vegetarian,2024-02-07,Winter
+U049,Cheese,vegetarian,2024-03-30,Spring
+U028,Bananas,"vegan, vegetarian",2024-03-03,Spring
+U040,Rice Cakes,"gluten-free, vegetarian",2024-01-16,Winter
+U027,Cheese,vegetarian,2024-02-16,Winter
+U026,Salmon,high-protein,2024-02-09,Winter
+U026,Zucchini,"vegan, vegetarian",2024-01-16,Winter
+U013,Sweet Potatoes,"vegan, vegetarian",2024-03-04,Spring
+U043,Beef,high-protein,2024-04-23,Spring
+U024,Broccoli,"vegan, vegetarian",2024-02-12,Winter
+U048,Gluten-Free Bread,"gluten-free, vegetarian",2024-04-22,Spring
+U033,Zucchini,"vegan, vegetarian",2024-04-09,Spring
+U048,Turkey,high-protein,2024-03-06,Spring
+U016,Yogurt,vegetarian,2024-02-23,Winter
+U017,Sweet Potatoes,"vegan, vegetarian",2024-01-18,Winter
+U036,Cheese,vegetarian,2024-04-06,Spring
+U035,Zucchini,"vegan, vegetarian",2024-04-30,Spring
+U038,Sweet Potatoes,"vegan, vegetarian",2024-01-29,Winter
+U046,Eggs,"vegetarian, high-protein",2024-01-21,Winter
+U047,Chicken Breast,high-protein,2024-02-13,Winter
+U019,Beef,high-protein,2024-03-01,Spring
+U025,Soy Milk,"vegan, gluten-free",2024-03-16,Spring
+U025,Spinach,"vegan, vegetarian",2024-02-23,Winter
+U028,Bananas,"vegan, vegetarian",2024-04-24,Spring
+U011,Salmon,high-protein,2024-02-07,Winter
+U014,Tofu,"vegan, vegetarian, high-protein",2024-04-11,Spring
+U033,Eggs,"vegetarian, high-protein",2024-03-26,Spring
+U043,Eggs,"vegetarian, high-protein",2024-03-26,Spring
+U047,Lentils,"vegan, vegetarian, high-protein",2024-02-06,Winter
+U017,Broccoli,"vegan, vegetarian",2024-04-16,Spring
+U006,Turkey,high-protein,2024-04-03,Spring
+U023,Whole Milk,vegetarian,2024-02-12,Winter
+U032,Avocados,"vegan, vegetarian",2024-01-25,Winter
+U019,Oats,vegetarian,2024-04-09,Spring
+U032,Rice Cakes,"gluten-free, vegetarian",2024-04-27,Spring
+U012,Coconut Milk,"vegan, gluten-free",2024-02-03,Winter
+U032,Sweet Potatoes,"vegan, vegetarian",2024-02-06,Winter
+U028,Yogurt,vegetarian,2024-02-15,Winter
+U006,Whole Milk,vegetarian,2024-01-25,Winter
+U034,Beef,high-protein,2024-04-29,Spring
+U025,Kale,"vegan, vegetarian",2024-02-03,Winter
+U037,Tofu,"vegan, vegetarian, high-protein",2024-04-14,Spring
+U048,Eggs,"vegetarian, high-protein",2024-01-11,Winter
+U029,Salmon,high-protein,2024-01-29,Winter
+U022,Soy Milk,"vegan, gluten-free",2024-02-15,Winter
+U023,Oats,vegetarian,2024-03-26,Spring
+U034,Lentils,"vegan, vegetarian, high-protein",2024-03-18,Spring
+U024,Whole Milk,vegetarian,2024-04-25,Spring
+U042,Salmon,high-protein,2024-01-26,Winter
+U036,Oats,vegetarian,2024-03-08,Spring
+U045,Yogurt,vegetarian,2024-01-14,Winter
+U008,Pasta,,2024-04-03,Spring
+U026,Avocados,"vegan, vegetarian",2024-04-29,Spring
+U004,Peanut Butter,"vegetarian, high-protein",2024-01-03,Winter
+U041,Carrots,"vegan, vegetarian",2024-02-08,Winter
+U009,Lentils,"vegan, vegetarian, high-protein",2024-02-03,Winter
+U033,Sweet Potatoes,"vegan, vegetarian",2024-04-20,Spring
+U036,Tofu,"vegan, vegetarian, high-protein",2024-01-24,Winter
+U011,Sweet Potatoes,"vegan, vegetarian",2024-03-07,Spring
+U030,Salmon,high-protein,2024-01-09,Winter
+U014,Bananas,"vegan, vegetarian",2024-02-11,Winter
+U042,Peanut Butter,"vegetarian, high-protein",2024-03-21,Spring
+U002,Salmon,high-protein,2024-01-29,Winter
+U016,Bananas,"vegan, vegetarian",2024-04-19,Spring
+U050,Chicken Breast,high-protein,2024-01-12,Winter
+U025,Quinoa,"vegan, gluten-free, high-protein",2024-01-01,Winter
+U015,Coconut Milk,"vegan, gluten-free",2024-02-21,Winter
+U006,Soy Milk,"vegan, gluten-free",2024-04-01,Spring
+U010,Quinoa,"vegan, gluten-free, high-protein",2024-04-19,Spring
+U014,Lentils,"vegan, vegetarian, high-protein",2024-03-28,Spring
+U020,Broccoli,"vegan, vegetarian",2024-04-21,Spring
+U001,Eggs,"vegetarian, high-protein",2024-04-01,Spring
+U010,Chicken Breast,high-protein,2024-02-21,Winter
+U019,Gluten-Free Bread,"gluten-free, vegetarian",2024-01-25,Winter
+U048,Brown Rice,"vegan, gluten-free",2024-01-18,Winter
+U002,Yogurt,vegetarian,2024-03-28,Spring
+U024,Quinoa,"vegan, gluten-free, high-protein",2024-04-30,Spring
+U013,Cheese,vegetarian,2024-04-05,Spring
+U039,Chicken Breast,high-protein,2024-01-24,Winter
+U031,Whole Milk,vegetarian,2024-04-14,Spring
+U042,Oats,vegetarian,2024-03-06,Spring
+U010,Almond Milk,"vegan, gluten-free",2024-03-10,Spring
+U025,Peanut Butter,"vegetarian, high-protein",2024-02-16,Winter
+U005,Peanut Butter,"vegetarian, high-protein",2024-04-14,Spring
+U002,Avocados,"vegan, vegetarian",2024-01-12,Winter
+U014,Coconut Milk,"vegan, gluten-free",2024-01-11,Winter
+U019,Greek Yogurt,"vegetarian, high-protein",2024-03-29,Spring
+U002,Carrots,"vegan, vegetarian",2024-01-13,Winter
+U017,Chicken Breast,high-protein,2024-02-17,Winter
+U043,Almond Milk,"vegan, gluten-free",2024-03-02,Spring
+U021,Kale,"vegan, vegetarian",2024-04-17,Spring
+U049,Greek Yogurt,"vegetarian, high-protein",2024-04-10,Spring
+U017,Oats,vegetarian,2024-04-28,Spring
+U002,Quinoa,"vegan, gluten-free, high-protein",2024-04-06,Spring
+U021,Carrots,"vegan, vegetarian",2024-01-12,Winter
+U047,Lentils,"vegan, vegetarian, high-protein",2024-04-06,Spring
+U032,Whole Milk,vegetarian,2024-01-13,Winter
+U039,Pasta,,2024-02-07,Winter
+U028,Sweet Potatoes,"vegan, vegetarian",2024-04-07,Spring
+U015,Turkey,high-protein,2024-04-22,Spring
+U042,Lentils,"vegan, vegetarian, high-protein",2024-03-08,Spring
+U003,Rice Cakes,"gluten-free, vegetarian",2024-04-08,Spring
+U005,Turkey,high-protein,2024-03-15,Spring
+U027,Yogurt,vegetarian,2024-02-17,Winter
+U019,Brown Rice,"vegan, gluten-free",2024-03-28,Spring
+U003,Kale,"vegan, vegetarian",2024-01-29,Winter
+U013,Lentils,"vegan, vegetarian, high-protein",2024-02-21,Winter
+U002,Chicken Breast,high-protein,2024-02-05,Winter
+U027,Salmon,high-protein,2024-02-08,Winter
+U030,Eggs,"vegetarian, high-protein",2024-04-09,Spring
+U020,Whole Milk,vegetarian,2024-02-17,Winter
+U005,Gluten-Free Bread,"gluten-free, vegetarian",2024-04-20,Spring
+U001,Tofu,"vegan, vegetarian, high-protein",2024-02-25,Winter
+U043,Gluten-Free Bread,"gluten-free, vegetarian",2024-02-01,Winter
+U020,Kale,"vegan, vegetarian",2024-03-14,Spring
+U005,Eggs,"vegetarian, high-protein",2024-04-21,Spring
+U029,Yogurt,vegetarian,2024-04-03,Spring
+U001,Lentils,"vegan, vegetarian, high-protein",2024-04-22,Spring
+U039,Kale,"vegan, vegetarian",2024-01-24,Winter
+U025,Pasta,,2024-02-17,Winter
+U001,Chicken Breast,high-protein,2024-03-09,Spring
+U006,Broccoli,"vegan, vegetarian",2024-01-09,Winter
+U012,Lentils,"vegan, vegetarian, high-protein",2024-02-02,Winter
+U033,Yogurt,vegetarian,2024-02-20,Winter
+U017,Spinach,"vegan, vegetarian",2024-04-29,Spring
+U004,Brown Rice,"vegan, gluten-free",2024-01-16,Winter
+U013,Peanut Butter,"vegetarian, high-protein",2024-01-03,Winter
+U029,Tofu,"vegan, vegetarian, high-protein",2024-02-21,Winter
+U014,Oats,vegetarian,2024-04-02,Spring
+U026,Avocados,"vegan, vegetarian",2024-02-14,Winter
+U034,Sweet Potatoes,"vegan, vegetarian",2024-02-24,Winter
+U047,Bananas,"vegan, vegetarian",2024-02-22,Winter
+U046,Coconut Milk,"vegan, gluten-free",2024-02-01,Winter
+U009,Soy Milk,"vegan, gluten-free",2024-03-04,Spring
+U035,Whole Milk,vegetarian,2024-03-15,Spring
+U037,Avocados,"vegan, vegetarian",2024-03-03,Spring
+U027,Spinach,"vegan, vegetarian",2024-03-17,Spring
+U028,Oats,vegetarian,2024-01-22,Winter
+U027,Oats,vegetarian,2024-02-22,Winter
+U031,Kale,"vegan, vegetarian",2024-02-22,Winter
+U001,Almond Milk,"vegan, gluten-free",2024-01-13,Winter
+U037,Soy Milk,"vegan, gluten-free",2024-03-10,Spring
+U025,Greek Yogurt,"vegetarian, high-protein",2024-03-01,Spring
+U047,Bananas,"vegan, vegetarian",2024-01-31,Winter
+U019,Greek Yogurt,"vegetarian, high-protein",2024-03-22,Spring
+U034,Soy Milk,"vegan, gluten-free",2024-03-03,Spring
+U018,Sweet Potatoes,"vegan, vegetarian",2024-01-30,Winter
+U039,Avocados,"vegan, vegetarian",2024-03-02,Spring
+U046,Apples,"vegan, vegetarian",2024-02-21,Winter
+U035,Kale,"vegan, vegetarian",2024-01-19,Winter
+U002,Greek Yogurt,"vegetarian, high-protein",2024-03-02,Spring
+U041,Soy Milk,"vegan, gluten-free",2024-01-27,Winter
+U022,Cheese,vegetarian,2024-02-29,Winter
+U017,Kale,"vegan, vegetarian",2024-04-16,Spring
+U039,Peanut Butter,"vegetarian, high-protein",2024-02-27,Winter
+U046,Avocados,"vegan, vegetarian",2024-01-28,Winter
+U040,Apples,"vegan, vegetarian",2024-04-09,Spring
+U031,Quinoa,"vegan, gluten-free, high-protein",2024-04-30,Spring
+U005,Turkey,high-protein,2024-04-24,Spring
+U046,Coconut Milk,"vegan, gluten-free",2024-03-22,Spring
+U021,Carrots,"vegan, vegetarian",2024-02-06,Winter
+U004,Turkey,high-protein,2024-04-24,Spring
+U046,Spinach,"vegan, vegetarian",2024-01-10,Winter
+U003,Avocados,"vegan, vegetarian",2024-03-31,Spring
+U034,Sweet Potatoes,"vegan, vegetarian",2024-03-16,Spring
+U019,Gluten-Free Bread,"gluten-free, vegetarian",2024-02-03,Winter
+U038,Greek Yogurt,"vegetarian, high-protein",2024-04-08,Spring
+U004,Yogurt,vegetarian,2024-01-05,Winter
+U019,Whole Milk,vegetarian,2024-04-09,Spring
+U011,Pasta,,2024-03-17,Spring
+U035,Eggs,"vegetarian, high-protein",2024-02-03,Winter
+U002,Kale,"vegan, vegetarian",2024-02-10,Winter
+U013,Peanut Butter,"vegetarian, high-protein",2024-04-12,Spring
+U025,Yogurt,vegetarian,2024-02-06,Winter
+U031,Broccoli,"vegan, vegetarian",2024-02-03,Winter
+U025,Apples,"vegan, vegetarian",2024-03-22,Spring
+U021,Quinoa,"vegan, gluten-free, high-protein",2024-04-28,Spring
+U030,Beef,high-protein,2024-04-03,Spring
+U039,Spinach,"vegan, vegetarian",2024-03-26,Spring
+U005,Pasta,,2024-02-25,Winter
+U032,Eggs,"vegetarian, high-protein",2024-02-04,Winter
+U006,Pasta,,2024-02-15,Winter
+U014,Bananas,"vegan, vegetarian",2024-02-17,Winter
+U043,Peanut Butter,"vegetarian, high-protein",2024-04-29,Spring
+U004,Sweet Potatoes,"vegan, vegetarian",2024-03-03,Spring
+U023,Kale,"vegan, vegetarian",2024-03-04,Spring
+U020,Coconut Milk,"vegan, gluten-free",2024-01-10,Winter
+U010,Avocados,"vegan, vegetarian",2024-02-22,Winter
+U022,Zucchini,"vegan, vegetarian",2024-01-30,Winter
+U043,Pasta,,2024-01-27,Winter
+U021,Peanut Butter,"vegetarian, high-protein",2024-03-19,Spring
+U025,Carrots,"vegan, vegetarian",2024-04-23,Spring
+U015,Pasta,,2024-01-18,Winter
+U041,Eggs,"vegetarian, high-protein",2024-04-05,Spring
+U017,Eggs,"vegetarian, high-protein",2024-01-09,Winter
+U013,Yogurt,vegetarian,2024-01-05,Winter
+U026,Avocados,"vegan, vegetarian",2024-03-10,Spring
+U031,Rice Cakes,"gluten-free, vegetarian",2024-02-13,Winter
+U037,Gluten-Free Bread,"gluten-free, vegetarian",2024-03-07,Spring
+U029,Pasta,,2024-04-09,Spring
+U032,Apples,"vegan, vegetarian",2024-03-09,Spring
+U006,Pasta,,2024-03-23,Spring
+U007,Oats,vegetarian,2024-02-04,Winter
+U043,Apples,"vegan, vegetarian",2024-03-06,Spring
+U031,Coconut Milk,"vegan, gluten-free",2024-04-20,Spring
+U021,Eggs,"vegetarian, high-protein",2024-03-02,Spring
+U012,Oats,vegetarian,2024-04-21,Spring
+U035,Tofu,"vegan, vegetarian, high-protein",2024-04-23,Spring
+U049,Broccoli,"vegan, vegetarian",2024-03-17,Spring
+U002,Bananas,"vegan, vegetarian",2024-01-15,Winter
+U005,Pasta,,2024-01-23,Winter
+U004,Soy Milk,"vegan, gluten-free",2024-04-28,Spring
+U048,Yogurt,vegetarian,2024-01-12,Winter
+U002,Brown Rice,"vegan, gluten-free",2024-02-26,Winter
+U049,Avocados,"vegan, vegetarian",2024-01-05,Winter
+U047,Apples,"vegan, vegetarian",2024-01-22,Winter
+U002,Pasta,,2024-04-26,Spring
+U034,Gluten-Free Bread,"gluten-free, vegetarian",2024-03-28,Spring
+U028,Chicken Breast,high-protein,2024-01-18,Winter
+U043,Cheese,vegetarian,2024-04-04,Spring
+U040,Gluten-Free Bread,"gluten-free, vegetarian",2024-04-22,Spring
+U037,Broccoli,"vegan, vegetarian",2024-01-29,Winter
+U038,Rice Cakes,"gluten-free, vegetarian",2024-01-16,Winter
+U039,Beef,high-protein,2024-02-23,Winter
+U001,Turkey,high-protein,2024-02-07,Winter
+U038,Gluten-Free Bread,"gluten-free, vegetarian",2024-03-17,Spring
+U026,Spinach,"vegan, vegetarian",2024-03-16,Spring
+U008,Kale,"vegan, vegetarian",2024-04-22,Spring
+U019,Beef,high-protein,2024-02-22,Winter
+U042,Carrots,"vegan, vegetarian",2024-03-23,Spring
+U021,Greek Yogurt,"vegetarian, high-protein",2024-02-24,Winter
+U016,Rice Cakes,"gluten-free, vegetarian",2024-04-27,Spring
+U038,Lentils,"vegan, vegetarian, high-protein",2024-03-07,Spring
+U014,Coconut Milk,"vegan, gluten-free",2024-04-20,Spring
+U002,Spinach,"vegan, vegetarian",2024-04-16,Spring
+U021,Beef,high-protein,2024-01-03,Winter
+U041,Soy Milk,"vegan, gluten-free",2024-01-03,Winter
+U035,Brown Rice,"vegan, gluten-free",2024-04-26,Spring
